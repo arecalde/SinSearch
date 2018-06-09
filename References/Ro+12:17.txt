@@ -1,0 +1,1 @@
+{"reference":"Romans 12:17","verses":[{"book_id":"ROM","book_name":"Romans","chapter":12,"verse":17,"text":"Repay no one evil for evil. Respect what is honorable in the sight of all men.\n"}],"text":"Repay no one evil for evil. Respect what is honorable in the sight of all men.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

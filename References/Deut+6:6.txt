@@ -1,0 +1,1 @@
+{"reference":"Deuteronomy 6:6","verses":[{"book_id":"DEU","book_name":"Deuteronomy","chapter":6,"verse":6,"text":"These words, which I command you today, shall be on your heart;\n"}],"text":"These words, which I command you today, shall be on your heart;\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

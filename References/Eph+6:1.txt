@@ -1,0 +1,1 @@
+{"reference":"Ephesians 6:1","verses":[{"book_id":"EPH","book_name":"Ephesians","chapter":6,"verse":1,"text":"Children, obey your parents in the Lord, for this is right.\n"}],"text":"Children, obey your parents in the Lord, for this is right.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

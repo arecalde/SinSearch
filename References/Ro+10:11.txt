@@ -1,0 +1,1 @@
+{"reference":"Romans 10:11","verses":[{"book_id":"ROM","book_name":"Romans","chapter":10,"verse":11,"text":"For the Scripture says, “Whoever believes in him will not be disappointed.”\n"}],"text":"For the Scripture says, “Whoever believes in him will not be disappointed.”\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

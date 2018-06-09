@@ -1,0 +1,1 @@
+{"reference":"Matthew 5:48","verses":[{"book_id":"MAT","book_name":"Matthew","chapter":5,"verse":48,"text":"\nTherefore you shall be perfect, just as your Father in heaven is perfect.\n"}],"text":"\nTherefore you shall be perfect, just as your Father in heaven is perfect.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

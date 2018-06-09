@@ -1,0 +1,1 @@
+{"reference":"John 10:26","verses":[{"book_id":"JHN","book_name":"John","chapter":10,"verse":26,"text":"\nBut you don’t believe, because you are not of my sheep, as I told you.\n\n"}],"text":"\nBut you don’t believe, because you are not of my sheep, as I told you.\n\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

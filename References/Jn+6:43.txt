@@ -1,0 +1,1 @@
+{"reference":"John 6:43","verses":[{"book_id":"JHN","book_name":"John","chapter":6,"verse":43,"text":"Therefore Jesus answered them,\n“Don’t murmur among yourselves.\n\n"}],"text":"Therefore Jesus answered them,\n“Don’t murmur among yourselves.\n\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"Proverbs 8:33","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":8,"verse":33,"text":"Hear instruction, and be wise.\nDon’t refuse it.\n"}],"text":"Hear instruction, and be wise.\nDon’t refuse it.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

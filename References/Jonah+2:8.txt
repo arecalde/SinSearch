@@ -1,0 +1,1 @@
+{"reference":"Jonah 2:8","verses":[{"book_id":"JON","book_name":"Jonah","chapter":2,"verse":8,"text":"Those who regard lying vanities forsake their own mercy.\n"}],"text":"Those who regard lying vanities forsake their own mercy.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

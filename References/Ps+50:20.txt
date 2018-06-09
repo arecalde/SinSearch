@@ -1,0 +1,1 @@
+{"reference":"Psalms 50:20","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":50,"verse":20,"text":"You sit and speak against your brother.\nYou slander your own mother’s son.\n"}],"text":"You sit and speak against your brother.\nYou slander your own mother’s son.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

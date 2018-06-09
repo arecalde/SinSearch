@@ -1,0 +1,1 @@
+{"reference":"Proverbs 6:19","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":6,"verse":19,"text":"a false witness who utters lies,\nand he who sows discord among brothers.\n"}],"text":"a false witness who utters lies,\nand he who sows discord among brothers.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

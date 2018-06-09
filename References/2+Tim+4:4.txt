@@ -1,0 +1,1 @@
+{"reference":"2 Timothy 4:4","verses":[{"book_id":"2TI","book_name":"2 Timothy","chapter":4,"verse":4,"text":"and will turn away their ears from the truth, and turn away to fables.\n"}],"text":"and will turn away their ears from the truth, and turn away to fables.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

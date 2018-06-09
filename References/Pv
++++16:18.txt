@@ -1,0 +1,1 @@
+{"reference":"Proverbs 16:18","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":16,"verse":18,"text":"Pride goes before destruction,\nand a haughty spirit before a fall.\n"}],"text":"Pride goes before destruction,\nand a haughty spirit before a fall.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"James 2:20","verses":[{"book_id":"JAS","book_name":"James","chapter":2,"verse":20,"text":"But do you want to know, vain man, that faith apart from works is dead?\n"}],"text":"But do you want to know, vain man, that faith apart from works is dead?\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

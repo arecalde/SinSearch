@@ -1,0 +1,1 @@
+{"reference":"Luke 6:28","verses":[{"book_id":"LUK","book_name":"Luke","chapter":6,"verse":28,"text":"\nbless those who curse you, and pray for those who mistreat you.\n\n"}],"text":"\nbless those who curse you, and pray for those who mistreat you.\n\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

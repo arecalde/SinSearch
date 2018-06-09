@@ -1,0 +1,1 @@
+{"reference":"1 John 5:7","verses":[{"book_id":"1JN","book_name":"1 John","chapter":5,"verse":7,"text":"For there are three who testify:\n"}],"text":"For there are three who testify:\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

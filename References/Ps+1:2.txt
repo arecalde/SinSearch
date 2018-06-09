@@ -1,0 +1,1 @@
+{"reference":"Psalms 1:2","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":1,"verse":2,"text":"but his delight is in Yahweh’s law.\nOn his law he meditates day and night.\n"}],"text":"but his delight is in Yahweh’s law.\nOn his law he meditates day and night.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

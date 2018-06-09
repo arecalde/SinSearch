@@ -1,0 +1,1 @@
+{"reference":"Psalms 109:5","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":109,"verse":5,"text":"They have rewarded me evil for good,\nand hatred for my love.\n"}],"text":"They have rewarded me evil for good,\nand hatred for my love.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

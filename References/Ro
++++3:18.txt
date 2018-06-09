@@ -1,0 +1,1 @@
+{"reference":"Romans 3:18","verses":[{"book_id":"ROM","book_name":"Romans","chapter":3,"verse":18,"text":"“There is no fear of God before their eyes.”\n"}],"text":"“There is no fear of God before their eyes.”\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

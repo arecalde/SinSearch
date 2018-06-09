@@ -1,0 +1,1 @@
+{"reference":"Luke 6:36","verses":[{"book_id":"LUK","book_name":"Luke","chapter":6,"verse":36,"text":"\n“Therefore be merciful,\neven as your Father is also merciful.\n"}],"text":"\n“Therefore be merciful,\neven as your Father is also merciful.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"Psalms 10:4","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":10,"verse":4,"text":"The wicked, in the pride of his face,\nhas no room in his thoughts for God.\n"}],"text":"The wicked, in the pride of his face,\nhas no room in his thoughts for God.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

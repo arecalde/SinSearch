@@ -1,0 +1,1 @@
+{"reference":"John 4:24","verses":[{"book_id":"JHN","book_name":"John","chapter":4,"verse":24,"text":"\nGod is spirit, and those who worship him must worship in spirit and truth.”\n"}],"text":"\nGod is spirit, and those who worship him must worship in spirit and truth.”\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"Luke 6:46","verses":[{"book_id":"LUK","book_name":"Luke","chapter":6,"verse":46,"text":"\n“Why do you call me, ‘Lord, Lord,’ and don’t do the things which I say?\n\n"}],"text":"\n“Why do you call me, ‘Lord, Lord,’ and don’t do the things which I say?\n\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

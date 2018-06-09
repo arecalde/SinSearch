@@ -1,0 +1,1 @@
+{"reference":"Romans 1:22","verses":[{"book_id":"ROM","book_name":"Romans","chapter":1,"verse":22,"text":"Professing themselves to be wise, they became fools,\n"}],"text":"Professing themselves to be wise, they became fools,\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

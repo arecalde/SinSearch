@@ -1,0 +1,1 @@
+{"reference":"Proverbs 10:18","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":10,"verse":18,"text":"He who hides hatred has lying lips.\nHe who utters a slander is a fool.\n"}],"text":"He who hides hatred has lying lips.\nHe who utters a slander is a fool.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

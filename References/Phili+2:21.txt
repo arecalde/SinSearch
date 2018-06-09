@@ -1,0 +1,1 @@
+{"reference":"Philippians 2:21","verses":[{"book_id":"PHP","book_name":"Philippians","chapter":2,"verse":21,"text":"For they all seek their own, not the things of Jesus Christ.\n"}],"text":"For they all seek their own, not the things of Jesus Christ.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

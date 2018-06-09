@@ -1,0 +1,1 @@
+{"reference":"Proverbs 6:17","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":6,"verse":17,"text":"haughty eyes, a lying tongue,\nhands that shed innocent blood;\n"}],"text":"haughty eyes, a lying tongue,\nhands that shed innocent blood;\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

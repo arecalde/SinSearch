@@ -1,0 +1,1 @@
+{"reference":"Proverbs 16:28","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":16,"verse":28,"text":"A perverse man stirs up strife.\nA whisperer separates close friends.\n"}],"text":"A perverse man stirs up strife.\nA whisperer separates close friends.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

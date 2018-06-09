@@ -1,0 +1,133 @@
+<!doctype html>
+<html>
+  <head>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"5851cab908","applicationID":"4535030","transactionName":"IgtWTRZcXlhWE0tjDA8FTEsFHGFdXQAQQgRbXnlJFF9bV1IVDV8LTiN9bUQc","queueTime":0,"applicationTime":2,"agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[f.now()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,t){s[t]=o(d+t,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),t.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(l+"tracer",[f.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return t.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],n),e}finally{c.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){m[t]=o(l+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,f.now()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],4:[function(e,t,n){t.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o,i){if(!d.aborted||i){e&&e(n,r,o);for(var a=t(o),u=m(n),c=u.length,f=0;f<c;f++)u[f].apply(a,r);var p=s[y[n]];return p&&p.push([b,n,r,a]),a}}function l(e,t){v[e]=m(e).concat(t)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(n)}function g(e,t){f(e,function(e,n){t=t||"feature",y[n]=t,t in s||(s[t]=[])})}var v={},y={},b={on:l,emit:n,get:w,listeners:m,context:t,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},p={},d=t.exports=o();d.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!x++){var e=h.info=NREUM.info,t=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return s.abort();f(y,function(t,n){e[t]||(e[t]=n)}),c("mark",["onload",a()+h.offset],null,"api");var n=d.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),c=e("handle"),f=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,SI:p.setImmediate,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1071.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=t.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),c("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+    <title>bible-api.com</title>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/styles/default.min.css">
+    <script src="//cdnjs.cloudflare.com/ajax/libs/highlight.js/8.5/highlight.min.js"></script>
+    <style>
+      dd { margin: 0 0 15px 0; }
+      table { border-collapse: collapse; }
+      th, td { text-align: left; border: 1px solid #ccc; padding: 5px; }
+    </style>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  </head>
+  <body>
+    <h1>bible-api.com</h1>
+
+<p>This is a tiny little web app that provides a JSON API for grabbing bible verses and passages.</p>
+
+<p>This service is provided by <a href="https://timmorgan.org">Tim Morgan</a>.
+You can get the source code for this app and the open data for its database at
+<a href="https://github.com/churchio/bible_api">https://github.com/churchio/bible_api</a>.</p>
+
+<h2>Usage</h2>
+
+<pre><code>https://bible-api.com/BOOK+CHAPTER:VERSE</code></pre>
+
+<p>You can get pretty crazy with book names and with verse ranges using commas and hyphens.
+It mostly just works. (Though, if it doesn't, you can
+<a href="https://github.com/churchio/bible_api/issues/new">submit an issue</a> and let us know!)</p>
+
+<h2>Examples</h2>
+
+<dl>
+  <dt>single verse</dt>
+  <dd><a href="https://bible-api.com/john 3:16">https://bible-api.com/john 3:16</a></dd>
+
+  <dt>abbreviated book name</dt>
+  <dd><a href="https://bible-api.com/jn 3:16">https://bible-api.com/jn 3:16</a></dd>
+
+  <dt>verse range</dt>
+  <dd><a href="https://bible-api.com/romans+12:1-2">https://bible-api.com/romans+12:1-2</a></dd>
+
+  <dt>multiple ranges</dt>
+  <dd><a href="https://bible-api.com/romans 12:1-2,5-7,9,13:1-9&10">https://bible-api.com/romans 12:1-2,5-7,9,13:1-9&10</a></dd>
+
+  <dt>different translation</dt>
+  <dd><a href="https://bible-api.com/john 3:16?translation=kjv">https://bible-api.com/john 3:16?translation=kjv</a></dd>
+
+  <dt>verse numbers</dt>
+  <dd><a href="https://bible-api.com/john 3:16?verse_numbers=true">https://bible-api.com/john 3:16?verse_numbers=true</a></dd>
+
+  <dt>jsonp</dt>
+  <dd><a href="https://bible-api.com/john+3:16?callback=func">https://bible-api.com/john+3:16?callback=func</a></dd>
+</dl>
+
+<h2>Translations</h2>
+
+<table>
+  <tr>
+    <th>Language</th>
+    <th>Name</th>
+    <th>Identifier</th>
+  </tr>
+  
+    <tr>
+      <td>Cherokee</td>
+      <td>Cherokee New Testament</td>
+      <td>
+        <a href="/ᎣᏍᏛ ᎧᏃᎮᏛ ᏣᏂ ᎤᏬᏪᎳᏅᎯ+3:16?translation=cherokee">cherokee</a>
+        
+      </td>
+    </tr>
+  
+    <tr>
+      <td>English</td>
+      <td>King James Version</td>
+      <td>
+        <a href="/John+3:16?translation=kjv">kjv</a>
+        
+      </td>
+    </tr>
+  
+    <tr>
+      <td>English</td>
+      <td>World English Bible</td>
+      <td>
+        <a href="/John+3:16?translation=web">web</a>
+        (default)
+      </td>
+    </tr>
+  
+    <tr>
+      <td>Latin</td>
+      <td>Clementine Latin Vulgate</td>
+      <td>
+        <a href="/Joannes+3:16?translation=clementine">clementine</a>
+        
+      </td>
+    </tr>
+  
+    <tr>
+      <td>Portuguese</td>
+      <td>João Ferreira de Almeida</td>
+      <td>
+        <a href="/João+3:16?translation=almeida">almeida</a>
+        
+      </td>
+    </tr>
+  
+    <tr>
+      <td>Romanian</td>
+      <td>Romanian Corrected Cornilescu Version</td>
+      <td>
+        <a href="/Ioan+3:16?translation=rccv">rccv</a>
+        
+      </td>
+    </tr>
+  
+</table>
+
+<p>Help us add more bible translations! Contribute to our <a href="https://github.com/churchio/open-bibles">repository of open and freely-licensed bibles</a>.</p>
+
+<h2>Terms of Use</h2>
+
+<p>This service is free for anyone to use as long as you don't abuse my server.
+I reserve the right to block any IP that hits this service too frequently and degrades the service for others. I make no guarantees about this service's availability, quality, or correctness.</p>
+
+<p>If you need more reliable service, remember you can grab the code and data for this site <a href="https://github.com/churchio/bible_api">here</a> and host it yourself!</p>
+
+  </body>
+</html>

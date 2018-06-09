@@ -1,0 +1,1 @@
+{"reference":"Psalms 119:11","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":119,"verse":11,"text":"I have hidden your word in my heart,\nthat I might not sin against you.\n"}],"text":"I have hidden your word in my heart,\nthat I might not sin against you.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"Leviticus 24:18","verses":[{"book_id":"LEV","book_name":"Leviticus","chapter":24,"verse":18,"text":"He who strikes an animal mortally shall make it good, life for life.\n"}],"text":"He who strikes an animal mortally shall make it good, life for life.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

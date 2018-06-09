@@ -1,0 +1,1 @@
+{"reference":"Psalms 17:10","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":17,"verse":10,"text":"They close up their callous hearts.\nWith their mouth they speak proudly.\n"}],"text":"They close up their callous hearts.\nWith their mouth they speak proudly.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

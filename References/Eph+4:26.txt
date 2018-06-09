@@ -1,0 +1,1 @@
+{"reference":"Ephesians 4:26","verses":[{"book_id":"EPH","book_name":"Ephesians","chapter":4,"verse":26,"text":"“Be angry, and don’t sin.” Don’t let the sun go down on your wrath,\n"}],"text":"“Be angry, and don’t sin.” Don’t let the sun go down on your wrath,\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

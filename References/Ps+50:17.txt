@@ -1,0 +1,1 @@
+{"reference":"Psalms 50:17","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":50,"verse":17,"text":"since you hate instruction,\nand throw my words behind you?\n"}],"text":"since you hate instruction,\nand throw my words behind you?\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

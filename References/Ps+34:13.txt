@@ -1,0 +1,1 @@
+{"reference":"Psalms 34:13","verses":[{"book_id":"PSA","book_name":"Psalms","chapter":34,"verse":13,"text":"Keep your tongue from evil,\nand your lips from speaking lies.\n"}],"text":"Keep your tongue from evil,\nand your lips from speaking lies.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

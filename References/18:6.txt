@@ -1,0 +1,1 @@
+{"reference":"Proverbs 18:6","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":18,"verse":6,"text":"A fool’s lips come into strife,\nand his mouth invites beatings.\n"}],"text":"A fool’s lips come into strife,\nand his mouth invites beatings.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

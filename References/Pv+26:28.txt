@@ -1,0 +1,1 @@
+{"reference":"Proverbs 26:28","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":26,"verse":28,"text":"A lying tongue hates those it hurts;\nand a flattering mouth works ruin.\n"}],"text":"A lying tongue hates those it hurts;\nand a flattering mouth works ruin.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

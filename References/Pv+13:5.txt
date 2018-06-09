@@ -1,0 +1,1 @@
+{"reference":"Proverbs 13:5","verses":[{"book_id":"PRO","book_name":"Proverbs","chapter":13,"verse":5,"text":"A righteous man hates lies,\nbut a wicked man brings shame and disgrace.\n"}],"text":"A righteous man hates lies,\nbut a wicked man brings shame and disgrace.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

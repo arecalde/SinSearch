@@ -1,0 +1,1 @@
+{"reference":"2 John 1:11","verses":[{"book_id":"2JN","book_name":"2 John","chapter":1,"verse":11,"text":"for he who welcomes him participates in his evil deeds.\n"}],"text":"for he who welcomes him participates in his evil deeds.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

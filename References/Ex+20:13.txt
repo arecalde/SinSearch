@@ -1,0 +1,1 @@
+{"reference":"Exodus 20:13","verses":[{"book_id":"EXO","book_name":"Exodus","chapter":20,"verse":13,"text":"“You shall not murder.\n"}],"text":"“You shall not murder.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

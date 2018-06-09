@@ -1,0 +1,1 @@
+{"reference":"1 John 2:3","verses":[{"book_id":"1JN","book_name":"1 John","chapter":2,"verse":3,"text":"This is how we know that we know him: if we keep his commandments.\n"}],"text":"This is how we know that we know him: if we keep his commandments.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

@@ -1,0 +1,1 @@
+{"reference":"Luke 21:19","verses":[{"book_id":"LUK","book_name":"Luke","chapter":21,"verse":19,"text":"\n“By your endurance you will win your lives.\n"}],"text":"\n“By your endurance you will win your lives.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

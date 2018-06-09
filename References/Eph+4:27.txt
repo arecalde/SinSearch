@@ -1,0 +1,1 @@
+{"reference":"Ephesians 4:27","verses":[{"book_id":"EPH","book_name":"Ephesians","chapter":4,"verse":27,"text":"and don’t give place to the devil.\n"}],"text":"and don’t give place to the devil.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

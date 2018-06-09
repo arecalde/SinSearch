@@ -1,0 +1,1 @@
+{"reference":"Luke 6:16","verses":[{"book_id":"LUK","book_name":"Luke","chapter":6,"verse":16,"text":"Judas the son of James; and Judas Iscariot, who also became a traitor.\n"}],"text":"Judas the son of James; and Judas Iscariot, who also became a traitor.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

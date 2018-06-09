@@ -1,0 +1,1 @@
+{"reference":"Isaiah 5:21","verses":[{"book_id":"ISA","book_name":"Isaiah","chapter":5,"verse":21,"text":"Woe to those who are wise in their own eyes,\nand prudent in their own sight!\n"}],"text":"Woe to those who are wise in their own eyes,\nand prudent in their own sight!\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}

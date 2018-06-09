@@ -1,0 +1,1 @@
+{"reference":"Leviticus 18:22","verses":[{"book_id":"LEV","book_name":"Leviticus","chapter":18,"verse":22,"text":"“‘You shall not lie with a man, as with a woman. That is detestable.\n"}],"text":"“‘You shall not lie with a man, as with a woman. That is detestable.\n","translation_id":"web","translation_name":"World English Bible","translation_note":"Public Domain"}
